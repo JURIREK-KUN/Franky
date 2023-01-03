@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>
+			First Web Page
+		</title>
+	</head>
+
+	<body>
+<a href=""C:\Users\Sham\Desktop\html\h2.html">Second Page</a>
+		<h2>hi</h2>
+	</body>
+</html>
